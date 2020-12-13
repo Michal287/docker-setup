@@ -1,3 +1,10 @@
+#New files to ignore
+
+database_env
+django_settings
+/postgres
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
